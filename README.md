@@ -31,6 +31,11 @@ library(tomRenv)
 ## basic example code
 ```
 
+``` r
+print("cze")
+#> [1] "cze"
+```
+
 What is special about using `README.Rmd` instead of just `README.md`?
 You can include R chunks like so:
 
