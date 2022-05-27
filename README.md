@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/cast-iron/tomRenv/workflows/R-CMD-check/badge.svg)](https://github.com/cast-iron/tomRenv/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/cast-iron/tomRenv/branch/main/graph/badge.svg)](https://app.codecov.io/gh/cast-iron/tomRenv?branch=main)
 <!-- badges: end -->
 
 The goal of tomRenv is to …
